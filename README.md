@@ -13,6 +13,16 @@ For instalation you just need to download and run the most recent release direct
 `go build hotformathCLI.go` should be enough
 
 # How does this work?
+
+## How to use?
+![usage](./working.gif)
+> Now you can do with those result whatever you please
+
+In this case on the third link you cna find a very interesting gif of andromeda, as promised.
+you can check in there to see what else there is.
+https://www.hep.ucl.ac.uk/~clarke/ParticlePhysicsMaterial/
+
+## What is inside?
 This project uses [rocketlaunchr's google-search module](github.com/rocketlaunchr/google-search) to search google for a term introduced by the user and then scraps the first 3 results
 the query sent to google shoul look a little something like `intext:"[YOUR SEARCH TERM]" -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml) -inurl:(index_of|listen77|mp3raid|mp3toss|mp3drug|index_of|wallywashis) intitle:"index.of./" [specific modifier]`
 where the specific modifier depends on the flag you use
