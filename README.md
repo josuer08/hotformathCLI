@@ -37,5 +37,5 @@ In the future we plan to:
   - [ ] TUI with https://github.com/charmbracelet/ repos
 
 # Credits
-![HotForMath](logo.png)
+![HotForMath](./hotformath.png)
 [HOTFORMATH ON GITHUB](https://github.com/marcosfermin/hotformath)
