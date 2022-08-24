@@ -16,7 +16,7 @@ For instalation you just need to download and run the most recent release direct
 
 ## How to use?
 ![usage](./working.gif)
-> Now you can do with those result whatever you please
+> Now you can do with those results whatever you please
 
 In this case on the third link you cna find a very interesting gif of andromeda, as promised.
 you can check in there to see what else there is.
